@@ -2,8 +2,8 @@
 // Sample Java file
 void testMethod1()
   {
-  //First command x = y + z
-  //Second commnad print(x)
+   x = y + z
+   print(x)
 
 
   //Last line print('Good bye')
@@ -21,3 +21,5 @@ void main()
     testMethod1();
     testMethod2();
 }
+
+// Edit made by Kabir_Sarham_230339079.
